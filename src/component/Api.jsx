@@ -17,7 +17,7 @@ const Api = () => {
        fetchApi()
 
        //setting new data automatically
-    },[data])
+    },[])
   return (
     <>
       <h1>user data</h1>

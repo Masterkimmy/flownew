@@ -11,23 +11,25 @@ import Blog from "./component/Blog"
 import Faq2 from "./component/Faq2"
 import Footer from "./component/Footer"
 import Api from "./component/Api"
+import Advice from "./component/Advice"
 
 
 function App() {
 
   return (
     <>
-    <Nav/>
+     {/* <Nav/>
     <Section1/>
     <Hero/>
     <Section2/>
     <About/>
     <Coustomer/>
-    <Faq/>
+    <Faq/> */}
     <Blog/>
-    <Faq2/>
-    <Footer/>
+    {/* <Faq2/>
+    <Footer/> */}
     {/* <Api/> */}
+    {/* <Advice/> */}
     </>
   )
 }
