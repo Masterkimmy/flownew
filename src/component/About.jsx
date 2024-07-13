@@ -11,7 +11,7 @@ const About = () => {
     <div className="flex flex-col items-center justify-center gap-24 pt-20 max-sm:gap-8 max-sm:h-[250vh]">
       <div className="flex flex-col items-center justify-center gap-10 max-sm:gap-6">
         <h3 className="font-bold text-[40px]">About Us</h3>
-        <p className="font-medium w-[40vw] max-sm:w-[86vw] text-center">
+        <p className="font-medium w-[40vw] max-sm:w-[86vw] max-sm:text-center">
           At Flow, we're committed to a sustainable future. As a pioneering
           force in the green energy sector, we've been at the forefront of the
           transition to clean, renewable power sources. Our mission is simple
@@ -48,7 +48,7 @@ const About = () => {
           </div>
           <div className="flex flex-col gap-3 items-center justify-center">
             <img className="h-[15vh]" src={img8} alt="" />
-            <div>
+            <div className='flex flex-col items-center'>
               <h3 className="font-bold text-[20px]">Courtney Henry</h3>
               <p className="text-gray-500">Energy Analysts</p>
             </div>

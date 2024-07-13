@@ -60,7 +60,7 @@ const coustomer = () => {
         </div>
       </div>
       <div className='bg-white h-[60vh] flex flex-col items-center justify-center gap-5 max-sm:h-[55vh]'>
-        <h1 className='font-bold text-[40px] w-[40vw] max-sm:w-[92vw] text-center'>
+        <h1 className='font-bold text-[40px] w-[40vw] max-sm:w-[92vw] max-sm:text-center'>
           Our commitment to green energy is paving the way for a cleaner,
           healthier planet.
         </h1>

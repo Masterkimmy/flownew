@@ -11,10 +11,10 @@ const section2 = () => {
         </div>
         <div className="flex  gap-32 max-sm:flex-col max-sm:gap-7">
           <div className="flex flex-col gap-5 max-sm:gap-3">
-            <h1 className="font-bold w-[25vw] text-[40px] max-sm:w-[87vw] text-center">
+            <h1 className="font-bold w-[25vw] text-[40px] max-sm:w-[87vw] max-sm:text-center">
               Committed to a sustainable future
             </h1>
-            <p className="text-gray-500 font-medium w-[40vw] max-sm:w-[87vw] text-center">
+            <p className="text-gray-500 font-medium w-[40vw] max-sm:w-[87vw] max-sm:text-center">
               As a pioneering force in the green energy sector, we've been at
               the forefront of the transition to clean, renewable power sources.
               Our mission is simple yet profound: to create a world where energy

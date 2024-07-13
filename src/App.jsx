@@ -18,16 +18,16 @@ function App() {
 
   return (
     <>
-     {/* <Nav/>
+     <Nav/>
     <Section1/>
     <Hero/>
     <Section2/>
     <About/>
     <Coustomer/>
-    <Faq/> */}
+    <Faq/>
     <Blog/>
-    {/* <Faq2/>
-    <Footer/> */}
+    <Faq2/>
+    <Footer/>
     {/* <Api/> */}
     {/* <Advice/> */}
     </>
