@@ -50,7 +50,7 @@ const About = () => {
             <img className="h-[15vh]" src={img8} alt="" />
             <div className='flex flex-col items-center'> 
               <h3 className="font-bold text-[20px]">Courtney Henry</h3>
-              <p className="text-gray-500">Energy Analysts</p>
+              <p className="text-gray-500">Energy o Analysts</p>
             </div>
           </div>
         </div>
