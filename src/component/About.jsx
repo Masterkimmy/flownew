@@ -8,7 +8,7 @@ import img5 from "../../src/Image (6).png";
 
 const About = () => {
   return (
-    <div className="flex flex-col items-center justify-center gap-24 pt-20 max-sm:gap-8 max-sm:h-[250vh]">
+    <div className="flex flex-col items-center justify-center gap-24 pt-20 max-sm:gap-8 max-sm:h-[210vh]">
       <div className="flex flex-col items-center justify-center gap-10 max-sm:gap-6">
         <h3 className="font-bold text-[40px]">About Us</h3>
         <p className="font-medium w-[40vw] max-sm:w-[86vw] max-sm:text-center">

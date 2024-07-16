@@ -3,7 +3,7 @@ import img from "../../src/Dot.png"
 
 const section2 = () => {
   return (
-    <div className="flex flext-col items-center justify-center h-[100vh] max-sm:h-[115vh] max-sm:bg-pink-100 ">
+    <div className="flex flext-col items-center justify-center h-[100vh] max-sm:h-[109vh] max-sm:bg-pink-100 ">
       <div className=" bg-pink-100 w-[80vw] h-[90vh] flex flex-col items-center justify-center rounded-lg  gap-16 max-sm:gap-4 ">
         <div className="flex gap-[7px] border-b-2 border-gray-400 items-center py-4 w-[70vw]">
           <img className="h-[2vh]" src={img} alt="" />

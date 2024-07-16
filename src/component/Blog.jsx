@@ -8,7 +8,7 @@ import img6 from "../../src/Ellipse 1 (2).png"
 
 const Blog = () => {
   return (
-    <div className="flex justify-around gap-24 h-[100vh] items-center max-sm:flex-col max-sm:gap-4">
+    <div className="flex justify-around gap-24 h-[100vh] items-center max-sm:flex-col max-sm:gap-4 max-sm:h-[70vh]">
       <div className="flex flex-col gap-80 max-sm:gap-6 max-sm:items-center max-sm:justify-center  ">
         <div className="flex flex-col gap-4 max-sm:items-center">
           <h1 className="font-semibold text-[40px] w-[24vw] max-sm:w-[67vw] max-sm:text-center">

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Faq2 = () => {
   return (
-    <div className="flex flex-col items-center justify-center gap-16 h-[190vh] max-sm:h-[180vh] mt-[160vw] max-sm:gap-5">
+    <div className="flex flex-col items-center justify-center gap-16 h-[190vh] max-sm:h-[140vh] mt-[200vw] max-sm:gap-5">
       <div className="flex flex-col items-center gap-4">
         <h1 className="font-bold text-[40px]">FAQ</h1>
         <h3 className="font-medium text-gray-400 max-sm:w-[78vw] max-sm:text-center">

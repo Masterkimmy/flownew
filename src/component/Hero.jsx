@@ -3,7 +3,7 @@ import img from "../../src/Image (2).png"
 
 const Hero = () => {
   return (
-    <div className='flex items-center justify-center h-[100vh] bg-white gap-[60px] max-sm:flex-col max-sm:gap-[20px] max-sm:h-[125vh]'>
+    <div className='flex items-center justify-center h-[100vh] bg-white gap-[60px] max-sm:flex-col max-sm:gap-[20px] max-sm:h-[110vh]'>
       <div className='flex flex-col gap-[16px] max-sm:items-center justify-center max-sm:gap-[10px]'>
         <h3 className="font-medium w-[24vw] max-sm:w-[66vw] max-sm:text-center">
           Our commitment to green energy is paving the way for a cleaner,

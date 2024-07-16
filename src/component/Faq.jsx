@@ -4,7 +4,7 @@ import img2 from "../../src/Tail icon.png"
 
 const Faq = () => {
   return (
-    <div className=" h-[130vh] flex flex-col items-center justify-center gap-7 max-sm:h-[175vh] max-sm:gap-0 ">
+    <div className=" h-[130vh] flex flex-col items-center justify-center gap-7 max-sm:h-[140vh] max-sm:gap-0 ">
       <div className="bg-pink-100 w-[95vw] rounded-xl flex flex-col gap-7">
         <div className="flex gap-2 items-center border-b-2 py-4 pl-5">
           <img className="h-3" src={img} alt="" />

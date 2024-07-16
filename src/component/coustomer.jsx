@@ -7,7 +7,7 @@ import img4 from "../../src/Image (11).png"
 const coustomer = () => {
   return (
     <div>
-      <div className="bg-green-950 h-[100vh] flex flex-col items-center justify-center gap-10 max-sm:h-[160vh] max-sm:gap-4">
+      <div className="bg-green-950 h-[100vh] flex flex-col items-center justify-center gap-10 max-sm:h-[150vh] max-sm:gap-4">
         <div className="flex gap-2 items-center border-b-2 border-gray-500 w-[64vw] pl-7 py-4">
           <img className="h-3" src={img} alt="" />
           <h1 className="text-white font-semibold">Testimonials</h1>
@@ -59,7 +59,7 @@ const coustomer = () => {
           </div>
         </div>
       </div>
-      <div className='bg-white h-[60vh] flex flex-col items-center justify-center gap-5 max-sm:h-[55vh]'>
+      <div className='bg-white h-[60vh] flex flex-col items-center justify-center gap-5 max-sm:h-[40vh]'>
         <h1 className='font-bold text-[40px] w-[40vw] max-sm:w-[92vw] max-sm:text-center'>
           Our commitment to green energy is paving the way for a cleaner,
           healthier planet.
