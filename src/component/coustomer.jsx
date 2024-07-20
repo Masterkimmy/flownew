@@ -7,7 +7,7 @@ import img4 from "../../src/Image (11).png"
 const coustomer = () => {
   return (
     <div>
-      <div className="bg-green-950 h-[100vh] flex flex-col items-center justify-center gap-10 max-sm:h-[150vh] max-sm:gap-4">
+      <div className="bg-green-950 h-[100vh] flex flex-col items-center justify-center gap-10 max-sm:h-[150vh] max-sm:gap-4 max-sm:mt-8">
         <div className="flex gap-2 items-center border-b-2 border-gray-500 w-[64vw] pl-7 py-4">
           <img className="h-3" src={img} alt="" />
           <h1 className="text-white font-semibold">Testimonials</h1>

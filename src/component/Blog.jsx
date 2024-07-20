@@ -8,7 +8,7 @@ import img6 from "../../src/Ellipse 1 (2).png"
 
 const Blog = () => {
   return (
-    <div className="flex justify-around gap-24 h-[100vh] items-center max-sm:flex-col max-sm:gap-4 max-sm:h-[70vh]">
+    <div className="flex justify-around gap-24 h-[100vh] mt-[60vh] items-center max-sm:flex-col max-sm:gap-4 max-sm:h-[70vh] max-sm:mt-[8vh]">
       <div className="flex flex-col gap-80 max-sm:gap-6 max-sm:items-center max-sm:justify-center  ">
         <div className="flex flex-col gap-4 max-sm:items-center">
           <h1 className="font-semibold text-[40px] w-[24vw] max-sm:w-[67vw] max-sm:text-center">
@@ -52,8 +52,7 @@ const Blog = () => {
           <img className="h-[20vh]" src={img5} alt="" />
           <div className="max-sm:flex max-sm:flex-col gap-4">
             <h1 className="font-semibold w-[36vw] text-[30px] max-sm:w-[77vw] max-sm:text-center">
-              Hydrogen: Fueling the Green Energy Revolution
-            </h1>
+              Hydrogen: Fueling the Green Energy Revolution</h1>
             <div className="flex items-center gap-2 max-sm:justify-center">
               <img src={img6} alt="" />
               <h3 className="font-medium">Leslie Alexander . 5 min read</h3>

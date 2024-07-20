@@ -8,7 +8,7 @@ import img5 from "../../src/Icon (3).png"
 const Footer = () => {
 
   return (
-    <div className="bg-green-950 h-[150vh] pl-[10vw] flex flex-col justify-center gap-24 max-sm:h-[160vh] max-sm:pl-0 max-sm:gap-8 mb-40 ">
+    <div className="bg-green-950 h-[150vh] pl-[10vw] flex flex-col justify-center gap-24 max-sm:h-[160vh] max-sm:pl-0 max-sm:gap-8 max-sm:mt-10  ">
       <div className='flex flex-col gap-24 pb-[15vw] max-sm:pb-0 max-sm:gap-10'>
         <div className="flex justify-cnter items-center gap-56 max-sm:flex-col max-sm:gap-8">
           <div className="flex flex-col gap-10 max-sm:gap-4">

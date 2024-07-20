@@ -17,7 +17,7 @@ const Section1 = () => {
             <img className="bg-green-400 h-[2vh]rounded" src={img2} alt="" />
             <h3 className="text-white ">Powering Tomorrow</h3>
           </div>
-          <h1 className="text-[40px] font-bold text-white w-[20vw] max-sm:w-[58.2vw] max-sm:text-[35px]"> The Future Of Green Energy</h1>
+          <h1 className="text-[40px] font-bold text-white w-[20vw] max-sm:w-[58.2vw] max-sm:text-[20px] max-md:text-center"> The Future Of Green Energy</h1>
           <p className="text-white w-[37vw] max-sm:w-[82vw] text-center">
             Our commitment to green energy is paving the way for a cleaner,
             healthier planet. Join us on a journey towards a future where clean,
